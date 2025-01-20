@@ -16,13 +16,9 @@ I am a software engineer passionate about software development and design, drive
 
 ---
 
-![Nombre de vues de profil](https://komarev.com/ghpvc/?username=votre_nom_utilisateur&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## 🎓 Certifications
 
-| ![Oracle Certified Professional](https://lien_image_certification_1.png) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
+| ![Professional Python Programmer]([https://lien_image_certification_1.png](https://images.credly.com/size/680x680/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png)) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------:|
 | Oracle Certified Professional                                            | Spring Certified Professional                                            | Scrum Foundation                                           |
 

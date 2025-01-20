@@ -13,8 +13,7 @@ I am a software engineer passionate about software development and design, drive
 - **Collaboration**
 - **Adaptability**
   
-## ![HobbiesGIF](https://github.com/user-attachments/assets/f8bbb57c-332e-43b6-b1bd-9b723933627b)
-Hobbies
+## 🏋️‍♀️ Hobbies
 - Sport
 - Read personal development articles
 - Video Games

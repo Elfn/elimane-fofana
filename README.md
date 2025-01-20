@@ -1,14 +1,18 @@
 # 👨‍💻 Introduction
 
-Je suis un ingénieur logiciel full-stack avec plus de 12 ans d'expérience professionnelle. Mon expertise repose sur le développement de projets en Java avec les frameworks Spring et Spring Boot pour le back-end, ainsi que sur des projets web Node.js utilisant JavaScript et TypeScript pour le développement front-end avec les frameworks Angular et React.js, et pour le back-end avec Express.js et NestJS, entre autres.
+I am a software engineer passionate about software development and design, driven to work on AI-driven, cloud-native, scalable, and automated systems. With over 7 years of professional experience, I specialize in building robust, efficient, and scalable software solutions that leverage modern technologies.
 
-Mon expérience technique comprend également :
-- La modélisation, la manipulation et l'intégration de bases de données SQL telles qu'Oracle, PostgreSQL et MySQL.
-- L'utilisation de bases de données NoSQL telles que DynamoDB et MongoDB.
-- L'intégration de systèmes de messagerie comme Kafka et RabbitMQ.
-- La conteneurisation et l'orchestration d'applications avec Docker et Kubernetes.
-- Le développement d'applications serverless sur AWS.
-- Les pratiques DevOps comme la création de pipelines CI/CD, et l'intégration avec des outils APM pour l'observabilité et la surveillance des services.
+## 🌟 Skills and Experience
+
+- **Backend Development**: Design and optimization of scalable systems.
+- **Frontend Development**: Creation of intuitive user interfaces.
+- **Cloud Infrastructure & Automation**: Deployment and automation of cloud-native systems.
+- **Diagram Design**: Architectural representation of technical solutions.
+- **ETL Processes**: Data integration and pipeline design.
+- **Problem Solving**: Efficient resolution of technical challenges.
+- **Object-Oriented Design**: Modular and scalable software solutions.
+- **Collaboration**: Effective teamwork and stakeholder communication.
+- **Adaptability**: Rapid learning of new technologies in dynamic environments.
 
 ---
 

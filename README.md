@@ -18,9 +18,9 @@ I am a software engineer passionate about software development and design, drive
 
 ## 🎓 Certifications
 
-| ![Professional Python Programmer 1](https://images.credly.com/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
+| ![Professional Python Programmer](https://images.credly.com/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/linkedin_thumb_image.png) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------:|
-| Oracle Certified Professional                                            | Spring Certified Professional                                            | Scrum Foundation                                           |
+| Professional Python Programmer                                            | Spring Certified Professional                                            | Scrum Foundation                                           |
 
 | ![Lifelong Learning](https://lien_image_certification_4.png) | ![Remote Work Collaboration](https://lien_image_certification_5.png) |
 |:----------------------------------------------------------:|:--------------------------------------------------------------------:|

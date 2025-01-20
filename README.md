@@ -4,22 +4,29 @@ I am a software engineer passionate about software development and design, drive
 
 ## 🌟 Skills and Experience
 
-- **Backend Development**: Design and optimization of scalable systems.
-- **Frontend Development**: Creation of intuitive user interfaces.
-- **Cloud Infrastructure & Automation**: Deployment and automation of cloud-native systems.
-- **Diagram Design**: Architectural representation of technical solutions.
-- **ETL Processes**: Data integration and pipeline design.
-- **Problem Solving**: Efficient resolution of technical challenges.
-- **Object-Oriented Design**: Modular and scalable software solutions.
-- **Collaboration**: Effective teamwork and stakeholder communication.
-- **Adaptability**: Rapid learning of new technologies in dynamic environments.
+- **Backend Development**
+- **Frontend Development**
+- **Cloud Infrastructure & Automation**
+- **Software Design**
+- **ETL Processes**
+- **Object-Oriented Design**
+- **Collaboration**
+- **Adaptability**
+  
+## ![HobbiesGIF](https://github.com/user-attachments/assets/f8bbb57c-332e-43b6-b1bd-9b723933627b)
+Hobbies
+- Sport
+- Read personal development articles
+- Video Games
+- Programming
+- Travels
 
 
 ---
 
 ## 🎓 Certifications
 
-| ![Professional Python Programmer](![image](https://github.com/user-attachments/assets/07a9a85f-c557-416f-9ae4-74322a8393e9)) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
+| ![Professional Python Programmer]() | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------:|
 | Professional Python Programmer                                            | Spring Certified Professional                                            | Scrum Foundation                                           |
 

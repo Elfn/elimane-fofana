@@ -18,7 +18,7 @@ I am a software engineer passionate about software development and design, drive
 
 ## 🎓 Certifications
 
-| ![Professional Python Programmer]([![ppcp](https://github.com/user-attachments/assets/771722e0-a815-472c-b0ee-0e8a8e14f4b9)](https://images.app.goo.gl/1JuLsaH3CDtZd5jp8)) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
+| ![Professional Python Programmer](https://images.app.goo.gl/1JuLsaH3CDtZd5jp8) | ![Spring Certified Professional](https://lien_image_certification_2.png) | ![Scrum Foundation](https://lien_image_certification_3.png) |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------:|
 | Oracle Certified Professional                                            | Spring Certified Professional                                            | Scrum Foundation                                           |
 
